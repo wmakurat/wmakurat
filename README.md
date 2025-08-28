@@ -4,7 +4,7 @@ I'm a software developer specialized in AI/ML and computer vision. I have over t
 
 I hold a degree in Mechatronics (specialization: Photonics) from Warsaw University of Technology and I'm currently completing a Master's in Information Technology (also at WUT). During my studies, I focus on AI (strong in computer vision) and I’m widening into other AI/DS tracks to tackle diverse problem domains.
 
-# About this repository
+# About pinned repositories
 
 This repository showcases a selection of non-commercial projects I’ve worked on during my academic and personal development. The projects are ordered (in my opinion) from the most relevant and technically impactful to more exploratory ones.
 
